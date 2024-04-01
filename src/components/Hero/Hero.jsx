@@ -1,14 +1,15 @@
 import { Butt } from '../Button/Butt'
 import './Hero.css'
+import {motion}from 'framer-motion'
 const Hero = () => {
   return (
     <>
       <section className="hero-container">
-        <div className="hero-content">
+        <motion>div className="hero-content">
           <h2>Building Digital Experience that Inspire</h2>
           <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vero, sit consequuntur ut quo harum, reiciendis temporibus iure pariatur commodi officia modi culpa cumque repellendus odit nostrum dolore similique. Tempora, quaerat!</p>
           <Butt/>
-        </div>
+        </motiondiv>
       <div className="hero-img">
         <div>
             <div className="tech-icon">
