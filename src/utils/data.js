@@ -3,16 +3,16 @@ const SKILLS=[
 title: "Frontend",
 icon: "../public/images/frontend-icon.png",
 skills: [
-         { skill: "HTML5", percentage: "80%"},
-         { skill: "CSS3 (Sass)", percentage: "90%"},
-         { skill: "JavaScript", percentage: "75%" },
-         { skill: "React.js", percentage: "80%"},],
+        { skill: "HTML5", percentage: "80%"},
+        { skill: "CSS3 (Sass)", percentage: "50%"},
+        { skill: "JavaScript", percentage: "75%" },
+        { skill: "React.js", percentage: "60%"},],
 },
 {title: "Backend",
- icon: "../public/images/backend-icon.png",
- skills: [
-      { skill: "Node.js", percentage: "70%"},
-      { skill: "Express.js", percentage: "65%"},
+icon: "../public/images/backend-icon.png",
+skills: [
+      { skill: "Node.js", percentage: "60%"},
+      { skill: "Express.js", percentage: "70%"},
 ],
 },
 {
@@ -30,6 +30,8 @@ skills: [
     icon: "../public/images/database-icon.png",
     skills: [
     { skill: "MongoDB", percentage: "85%"},
+    { skill: "MySQL", percentage: "60%"},
+
     ],
     },
 {title: "Soft Skills",
@@ -43,10 +45,10 @@ skills: [
 {title: "Project Management And design",
 icon: "../public/images/idesign.png",
 skills: [
-{ skill: "Trello", percentage: "80%"},
-{ skill: "Jira", percentage: "85%"},
+{ skill: "Trello", percentage: "60%"},
+{ skill: "Jira", percentage: "70%"},
 { skill: "Canva ", percentage: "75%"},
-{ skill: "Figma", percentage: "75%"},
+{ skill: "Figma", percentage: "60%"},
 
 ],
 },

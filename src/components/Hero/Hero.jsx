@@ -1,3 +1,4 @@
+import { Butt } from '../Button/Butt'
 import './Hero.css'
 const Hero = () => {
   return (
@@ -6,6 +7,7 @@ const Hero = () => {
         <div className="hero-content">
           <h2>Building Digital Experience that Inspire</h2>
           <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vero, sit consequuntur ut quo harum, reiciendis temporibus iure pariatur commodi officia modi culpa cumque repellendus odit nostrum dolore similique. Tempora, quaerat!</p>
+          <Butt/>
         </div>
       <div className="hero-img">
         <div>
