@@ -56,33 +56,33 @@ skills: [
 
 const work_experience = [
       {
-        "title": "Senior Frontend Developer at Tech Innovators",
-        "date": "January 2022 - Present",
+        "title": "Stagiaire Full-Stack Developer MERN",
+        "date": " 2024 - Present",
         "responsibilities": [
-          "Led a team of frontend developers in the redesign of the company's flagship product, resulting in a 30% increase in user engagement.",
-          "Implemented advanced CSS animations and transitions to enhance the overall user experience.",
-          "Collaborated with UX/UI designers to translate and mockups into responsive and interactive web interfaces.",
-          "Introduced and integrated Vue.js into the tech stack, improving code maintainability and development efficiency."
+          "Bootcamp: Full-stack JAVASCRIPT MERN",
+          "Conception et dévloppement d’une plateforme E-commerce innovante .",
+          "Application pratique des connaissances à travers des projets e-commerce avec travail en equipe.",
+          "Coordination de projets en équipe."
         ]
       },
       {
-        "title": "Junior Web Developer at Digital Solution",
-        "date": "June 2020 - December 2021",
+        "title": "Automatisation des tests avec selenium  - Caisse Marocaine des Retraites.",
+        "date": "2023 - Present ",
         "responsibilities": [
-          "Developed and maintained client websites, ensuring high-quality standards and timely project delivery.",
-          "Implemented SEO best practices, leading to a 25% increase in organic search traffic for key clients.",
-          "Worked closely with the design team to create pixel-perfect, cross-browser-compatible web pages.",
-          "Conducted code reviews and mentored junior developers in adopting best coding practices."
+          "Automatisation des applications web avec Selenium IDE.",
+          "Création de scripts de test pour la vérification automatique des fonctionnalités et des flux de travail des utilisateurs.",
+          "Tests des applications web avec les frameworks Python.",
+          "Développement de scripts de test automatisés avec Selenium WebDriver en Python.."
         ]
       },
       {
-        "title": "Frontend Intern at Web Studio",
-        "date": "May 2019 - August 2019",
+        "title": "Stage d'observation - RADEEC ",
+        "date": "2022 - 2023 - Present ",
         "responsibilities": [
-          "Assisted in the development of a new e-commerce platform, contributing to the implementation of frontend features.",
-          "Conducted performance optimization tasks, resulting in a 15% improvement in page load times.",
-          "Participated in daily stand-up meetings and collaborated with senior developers to troubleshoot and resolve issues.",
-          "Gained hands-on experience with version control systems, specifically Git, in a collaborative development environment."
+          "Assister les techniciens et ingénieurs dans leurs tâches quotidiennes.",
+          "Analyser les données collectées et proposer des améliorations potentielles.",
+          "Observer et documenter les processus de production et de distribution  d'eau et d'électricité..",
+          "Contribuer à la communication et à la sensibilisation du public sur l'eau et l'électricité."
         ]
       }
     ]

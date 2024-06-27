@@ -5,11 +5,12 @@ const Hero = () => {
   return (
     <>
       <section className="hero-container">
-        <motion>div className="hero-content">
-          <h2>Building Digital Experience that Inspire</h2>
+        <div className="hero-content">
+          <motion.h2
+          >Building Digital Experience that Inspire</motion.h2>
           <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vero, sit consequuntur ut quo harum, reiciendis temporibus iure pariatur commodi officia modi culpa cumque repellendus odit nostrum dolore similique. Tempora, quaerat!</p>
           <Butt/>
-        </motiondiv>
+        </div>
       <div className="hero-img">
         <div>
             <div className="tech-icon">
